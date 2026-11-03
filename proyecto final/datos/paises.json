@@ -1,0 +1,2637 @@
+{
+ "ccpi": {
+  "AE": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Medio",
+    "renovables": "Bajo"
+   },
+   "puesto": 62,
+   "puntaje": 27.63
+  },
+  "AR": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Muy bajo",
+    "politica": "Muy bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 58,
+   "puntaje": 34.71
+  },
+  "AT": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Bajo",
+    "politica": "Bajo",
+    "renovables": "Medio"
+   },
+   "puesto": 35,
+   "puntaje": 55.05
+  },
+  "AU": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Bajo",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 56,
+   "puntaje": 42.49
+  },
+  "BE": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Medio",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 37,
+   "puntaje": 53.8
+  },
+  "BG": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Medio",
+    "politica": "Muy bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 51,
+   "puntaje": 47.26
+  },
+  "BR": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Muy bajo",
+    "politica": "Alto",
+    "renovables": "Medio"
+   },
+   "puesto": 27,
+   "puntaje": 58.21
+  },
+  "BY": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Bajo",
+    "politica": "Muy bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 55,
+   "puntaje": 43.43
+  },
+  "CA": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 61,
+   "puntaje": 28.3
+  },
+  "CH": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Alto",
+    "politica": "Bajo",
+    "renovables": "Medio"
+   },
+   "puesto": 26,
+   "puntaje": 60.44
+  },
+  "CL": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Alto",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 7,
+   "puntaje": 70.63
+  },
+  "CN": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Alto",
+    "renovables": "Medio"
+   },
+   "puesto": 54,
+   "puntaje": 44.45
+  },
+  "CO": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Bajo",
+    "politica": "Medio",
+    "renovables": "Bajo"
+   },
+   "puesto": 36,
+   "puntaje": 54.45
+  },
+  "CY": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Bajo",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 39,
+   "puntaje": 52.99
+  },
+  "CZ": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 42,
+   "puntaje": 51.12
+  },
+  "DE": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Medio",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 22,
+   "puntaje": 61.51
+  },
+  "DK": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Alto",
+    "politica": "Alto",
+    "renovables": "Muy alto"
+   },
+   "puesto": 4,
+   "puntaje": 80.52
+  },
+  "DZ": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Medio",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 40,
+   "puntaje": 52.92
+  },
+  "EE": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Medio",
+    "politica": "Bajo",
+    "renovables": "Alto"
+   },
+   "puesto": 18,
+   "puntaje": 63.08
+  },
+  "EG": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 38,
+   "puntaje": 53.74
+  },
+  "ES": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 14,
+   "puntaje": 64.62
+  },
+  "EU": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 20,
+   "puntaje": 62.69
+  },
+  "FI": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Medio",
+    "politica": "Medio",
+    "renovables": "Alto"
+   },
+   "puesto": 29,
+   "puntaje": 57.95
+  },
+  "FR": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Alto",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 21,
+   "puntaje": 62.42
+  },
+  "GB": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Alto",
+    "politica": "Alto",
+    "renovables": "Bajo"
+   },
+   "puesto": 5,
+   "puntaje": 70.8
+  },
+  "GR": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Bajo",
+    "renovables": "Medio"
+   },
+   "puesto": 30,
+   "puntaje": 57.62
+  },
+  "HR": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Bajo",
+    "politica": "Bajo",
+    "renovables": "Medio"
+   },
+   "puesto": 45,
+   "puntaje": 50.48
+  },
+  "HU": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Alto",
+    "politica": "Muy bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 48,
+   "puntaje": 49.47
+  },
+  "ID": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Bajo",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 43,
+   "puntaje": 50.84
+  },
+  "IE": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Bajo",
+    "politica": "Bajo",
+    "renovables": "Medio"
+   },
+   "puesto": 33,
+   "puntaje": 56.96
+  },
+  "IN": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Medio",
+    "renovables": "Bajo"
+   },
+   "puesto": 23,
+   "puntaje": 61.31
+  },
+  "IR": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Muy bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 66,
+   "puntaje": 14.33
+  },
+  "IT": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Muy bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 46,
+   "puntaje": 50.0
+  },
+  "JP": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Bajo",
+    "politica": "Muy bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 57,
+   "puntaje": 40.95
+  },
+  "KR": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 63,
+   "puntaje": 23.32
+  },
+  "KZ": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 60,
+   "puntaje": 29.38
+  },
+  "LT": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Alto",
+    "politica": "Medio",
+    "renovables": "Alto"
+   },
+   "puesto": 9,
+   "puntaje": 70.3
+  },
+  "LU": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Alto",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 8,
+   "puntaje": 70.45
+  },
+  "LV": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Bajo",
+    "politica": "Bajo",
+    "renovables": "Alto"
+   },
+   "puesto": 34,
+   "puntaje": 56.59
+  },
+  "MA": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Alto",
+    "politica": "Alto",
+    "renovables": "Bajo"
+   },
+   "puesto": 6,
+   "puntaje": 70.75
+  },
+  "MT": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Medio",
+    "renovables": "Bajo"
+   },
+   "puesto": 25,
+   "puntaje": 60.52
+  },
+  "MX": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Medio",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 31,
+   "puntaje": 57.24
+  },
+  "MY": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Alto",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 49,
+   "puntaje": 48.73
+  },
+  "NG": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Alto",
+    "politica": "Bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 17,
+   "puntaje": 63.33
+  },
+  "NL": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Alto",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 10,
+   "puntaje": 67.27
+  },
+  "NO": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Alto",
+    "politica": "Bajo",
+    "renovables": "Muy alto"
+   },
+   "puesto": 11,
+   "puntaje": 66.83
+  },
+  "NZ": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Bajo",
+    "politica": "Muy bajo",
+    "renovables": "Alto"
+   },
+   "puesto": 44,
+   "puntaje": 50.71
+  },
+  "PH": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Alto",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 19,
+   "puntaje": 62.78
+  },
+  "PK": {
+   "categorias": {
+    "energia": "Muy alto",
+    "ghg": "Muy alto",
+    "politica": "Bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 15,
+   "puntaje": 64.43
+  },
+  "PL": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Bajo",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 50,
+   "puntaje": 48.07
+  },
+  "PT": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Alto",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 12,
+   "puntaje": 66.05
+  },
+  "RO": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Alto",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 16,
+   "puntaje": 64.33
+  },
+  "RU": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Muy bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 64,
+   "puntaje": 23.09
+  },
+  "SA": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Muy bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 67,
+   "puntaje": 11.9
+  },
+  "SE": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Alto",
+    "politica": "Bajo",
+    "renovables": "Muy alto"
+   },
+   "puesto": 13,
+   "puntaje": 64.91
+  },
+  "SI": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Medio",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 28,
+   "puntaje": 58.16
+  },
+  "SK": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Alto",
+    "politica": "Bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 47,
+   "puntaje": 49.62
+  },
+  "TH": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Medio",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 32,
+   "puntaje": 57.04
+  },
+  "TR": {
+   "categorias": {
+    "energia": "Bajo",
+    "ghg": "Bajo",
+    "politica": "Muy bajo",
+    "renovables": "Medio"
+   },
+   "puesto": 52,
+   "puntaje": 44.96
+  },
+  "TW": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Bajo",
+    "renovables": "Bajo"
+   },
+   "puesto": 59,
+   "puntaje": 33.64
+  },
+  "US": {
+   "categorias": {
+    "energia": "Muy bajo",
+    "ghg": "Muy bajo",
+    "politica": "Muy bajo",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 65,
+   "puntaje": 21.84
+  },
+  "UZ": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Muy bajo",
+    "politica": "Medio",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 53,
+   "puntaje": 44.49
+  },
+  "VN": {
+   "categorias": {
+    "energia": "Medio",
+    "ghg": "Bajo",
+    "politica": "Medio",
+    "renovables": "Medio"
+   },
+   "puesto": 24,
+   "puntaje": 60.65
+  },
+  "ZA": {
+   "categorias": {
+    "energia": "Alto",
+    "ghg": "Bajo",
+    "politica": "Medio",
+    "renovables": "Muy bajo"
+   },
+   "puesto": 41,
+   "puntaje": 51.44
+  }
+ },
+ "meta": {
+  "anio_comun_co2": 2024,
+  "ccpi": "Climate Change Performance Index 2026 (Germanwatch, NewClimate Institute y CAN), publicado el 18/11/2025",
+  "co2": "Our World in Data / Global Carbon Project: CO2 territorial por persona (t/año)",
+  "mundo_co2_pc": 4.73
+ },
+ "paises": {
+  "AD": {
+   "anio": 2024,
+   "co2_pc": 5.18,
+   "de_co2": 213,
+   "en": "Andorra",
+   "es": "Andorra",
+   "poblacion": 81955,
+   "puesto_co2": 64
+  },
+  "AE": {
+   "anio": 2024,
+   "co2_pc": 20.13,
+   "de_co2": 213,
+   "en": "United Arab Emirates",
+   "es": "Emiratos Árabes Unidos",
+   "nombre_es": "Emiratos Árabes Unidos",
+   "poblacion": 11027135,
+   "puesto_co2": 7
+  },
+  "AF": {
+   "anio": 2024,
+   "co2_pc": 0.25,
+   "de_co2": 213,
+   "en": "Afghanistan",
+   "es": "Afganistán",
+   "poblacion": 42647502,
+   "puesto_co2": 194
+  },
+  "AG": {
+   "anio": 2024,
+   "co2_pc": 7.09,
+   "de_co2": 213,
+   "en": "Antigua and Barbuda",
+   "es": "Antigua y Barbuda",
+   "poblacion": 93782,
+   "puesto_co2": 39
+  },
+  "AI": {
+   "anio": 2024,
+   "co2_pc": 10.13,
+   "de_co2": 213,
+   "en": "Anguilla",
+   "es": "Anguila",
+   "poblacion": 14623,
+   "puesto_co2": 25
+  },
+  "AL": {
+   "anio": 2024,
+   "co2_pc": 1.59,
+   "de_co2": 213,
+   "en": "Albania",
+   "es": "Albania",
+   "poblacion": 2791756,
+   "puesto_co2": 141
+  },
+  "AM": {
+   "anio": 2024,
+   "co2_pc": 2.5,
+   "de_co2": 213,
+   "en": "Armenia",
+   "es": "Armenia",
+   "poblacion": 2973843,
+   "puesto_co2": 122
+  },
+  "AO": {
+   "anio": 2024,
+   "co2_pc": 0.59,
+   "de_co2": 213,
+   "en": "Angola",
+   "es": "Angola",
+   "poblacion": 37885854,
+   "puesto_co2": 175
+  },
+  "AR": {
+   "anio": 2024,
+   "co2_pc": 3.74,
+   "de_co2": 213,
+   "en": "Argentina",
+   "es": "Argentina",
+   "nombre_es": "Argentina",
+   "poblacion": 45696153,
+   "puesto_co2": 91
+  },
+  "AT": {
+   "anio": 2024,
+   "co2_pc": 6.18,
+   "de_co2": 213,
+   "en": "Austria",
+   "es": "Austria",
+   "nombre_es": "Austria",
+   "poblacion": 9120815,
+   "puesto_co2": 49
+  },
+  "AU": {
+   "anio": 2024,
+   "co2_pc": 14.48,
+   "de_co2": 213,
+   "en": "Australia",
+   "es": "Australia",
+   "nombre_es": "Australia",
+   "poblacion": 26713206,
+   "puesto_co2": 11
+  },
+  "AW": {
+   "anio": 2024,
+   "co2_pc": 8.52,
+   "de_co2": 213,
+   "en": "Aruba",
+   "es": "Aruba",
+   "poblacion": 108076,
+   "puesto_co2": 32
+  },
+  "AZ": {
+   "anio": 2024,
+   "co2_pc": 3.85,
+   "de_co2": 213,
+   "en": "Azerbaijan",
+   "es": "Azerbaiyán",
+   "poblacion": 10336577,
+   "puesto_co2": 88
+  },
+  "BA": {
+   "anio": 2024,
+   "co2_pc": 6.14,
+   "de_co2": 213,
+   "en": "Bosnia and Herzegovina",
+   "es": "Bosnia y Herzegovina",
+   "poblacion": 3164256,
+   "puesto_co2": 51
+  },
+  "BB": {
+   "anio": 2024,
+   "co2_pc": 4.83,
+   "de_co2": 213,
+   "en": "Barbados",
+   "es": "Barbados",
+   "poblacion": 282476,
+   "puesto_co2": 71
+  },
+  "BD": {
+   "anio": 2024,
+   "co2_pc": 0.62,
+   "de_co2": 213,
+   "en": "Bangladesh",
+   "es": "Bangladés",
+   "poblacion": 173562366,
+   "puesto_co2": 171
+  },
+  "BE": {
+   "anio": 2024,
+   "co2_pc": 7.28,
+   "de_co2": 213,
+   "en": "Belgium",
+   "es": "Bélgica",
+   "nombre_es": "Bélgica",
+   "poblacion": 11738761,
+   "puesto_co2": 38
+  },
+  "BF": {
+   "anio": 2024,
+   "co2_pc": 0.28,
+   "de_co2": 213,
+   "en": "Burkina Faso",
+   "es": "Burquina Faso",
+   "poblacion": 23548782,
+   "puesto_co2": 191
+  },
+  "BG": {
+   "anio": 2024,
+   "co2_pc": 4.68,
+   "de_co2": 213,
+   "en": "Bulgaria",
+   "es": "Bulgaria",
+   "nombre_es": "Bulgaria",
+   "poblacion": 6757686,
+   "puesto_co2": 75
+  },
+  "BH": {
+   "anio": 2024,
+   "co2_pc": 24.27,
+   "de_co2": 213,
+   "en": "Bahrain",
+   "es": "Baréin",
+   "poblacion": 1607059,
+   "puesto_co2": 4
+  },
+  "BI": {
+   "anio": 2024,
+   "co2_pc": 0.07,
+   "de_co2": 213,
+   "en": "Burundi",
+   "es": "Burundi",
+   "poblacion": 14047788,
+   "puesto_co2": 210
+  },
+  "BJ": {
+   "anio": 2024,
+   "co2_pc": 0.42,
+   "de_co2": 213,
+   "en": "Benin",
+   "es": "Benín",
+   "poblacion": 14462721,
+   "puesto_co2": 183
+  },
+  "BM": {
+   "anio": 2024,
+   "co2_pc": 8.51,
+   "de_co2": 213,
+   "en": "Bermuda",
+   "es": "Islas Bermudas",
+   "poblacion": 64660,
+   "puesto_co2": 33
+  },
+  "BN": {
+   "anio": 2024,
+   "co2_pc": 26.05,
+   "de_co2": 213,
+   "en": "Brunei Darussalam",
+   "es": "Brunéi",
+   "poblacion": 462734,
+   "puesto_co2": 3
+  },
+  "BO": {
+   "anio": 2024,
+   "co2_pc": 2.31,
+   "de_co2": 213,
+   "en": "Bolivia",
+   "es": "Bolivia",
+   "poblacion": 12413318,
+   "puesto_co2": 125
+  },
+  "BQ": {
+   "anio": 2024,
+   "co2_pc": 4.95,
+   "de_co2": 213,
+   "en": "Bonaire, Sint Eustatius and Saba",
+   "es": "Caribe Neerlandés",
+   "poblacion": 30699,
+   "puesto_co2": 69
+  },
+  "BR": {
+   "anio": 2024,
+   "co2_pc": 2.28,
+   "de_co2": 213,
+   "en": "Brazil",
+   "es": "Brasil",
+   "nombre_es": "Brasil",
+   "poblacion": 211998565,
+   "puesto_co2": 126
+  },
+  "BS": {
+   "anio": 2024,
+   "co2_pc": 7.65,
+   "de_co2": 213,
+   "en": "Bahamas",
+   "es": "Bahamas",
+   "poblacion": 401282,
+   "puesto_co2": 37
+  },
+  "BT": {
+   "anio": 2024,
+   "co2_pc": 2.09,
+   "de_co2": 213,
+   "en": "Bhutan",
+   "es": "Bután",
+   "poblacion": 791530,
+   "puesto_co2": 132
+  },
+  "BW": {
+   "anio": 2024,
+   "co2_pc": 2.96,
+   "de_co2": 213,
+   "en": "Botswana",
+   "es": "Botsuana",
+   "poblacion": 2521145,
+   "puesto_co2": 111
+  },
+  "BY": {
+   "anio": 2024,
+   "co2_pc": 6.16,
+   "de_co2": 213,
+   "en": "Belarus",
+   "es": "Bielorrusia",
+   "nombre_es": "Bielorrusia",
+   "poblacion": 9056696,
+   "puesto_co2": 50
+  },
+  "BZ": {
+   "anio": 2024,
+   "co2_pc": 1.91,
+   "de_co2": 213,
+   "en": "Belize",
+   "es": "Belice",
+   "poblacion": 417077,
+   "puesto_co2": 135
+  },
+  "CA": {
+   "anio": 2024,
+   "co2_pc": 13.42,
+   "de_co2": 213,
+   "en": "Canada",
+   "es": "Canadá",
+   "nombre_es": "Canadá",
+   "poblacion": 39742429,
+   "puesto_co2": 14
+  },
+  "CD": {
+   "anio": 2024,
+   "co2_pc": 0.05,
+   "de_co2": 213,
+   "en": "Congo, The Democratic Republic of the",
+   "es": "República Democrática del Congo",
+   "poblacion": 109276264,
+   "puesto_co2": 213
+  },
+  "CF": {
+   "anio": 2024,
+   "co2_pc": 0.07,
+   "de_co2": 213,
+   "en": "Central African Republic",
+   "es": "República Centroafricana",
+   "poblacion": 5330691,
+   "puesto_co2": 211
+  },
+  "CG": {
+   "anio": 2024,
+   "co2_pc": 1.4,
+   "de_co2": 213,
+   "en": "Congo",
+   "es": "República del Congo",
+   "poblacion": 6332969,
+   "puesto_co2": 147
+  },
+  "CH": {
+   "anio": 2024,
+   "co2_pc": 3.6,
+   "de_co2": 213,
+   "en": "Switzerland",
+   "es": "Suiza",
+   "nombre_es": "Suiza",
+   "poblacion": 8921979,
+   "puesto_co2": 99
+  },
+  "CI": {
+   "anio": 2024,
+   "co2_pc": 0.46,
+   "de_co2": 213,
+   "en": "Côte d'Ivoire",
+   "es": "Costa de Marfil",
+   "poblacion": 31934229,
+   "puesto_co2": 182
+  },
+  "CK": {
+   "anio": 2024,
+   "co2_pc": 5.82,
+   "de_co2": 213,
+   "en": "Cook Islands",
+   "es": "Islas Cook",
+   "poblacion": 13750,
+   "puesto_co2": 56
+  },
+  "CL": {
+   "anio": 2024,
+   "co2_pc": 3.98,
+   "de_co2": 213,
+   "en": "Chile",
+   "es": "Chile",
+   "nombre_es": "Chile",
+   "poblacion": 19764774,
+   "puesto_co2": 86
+  },
+  "CM": {
+   "anio": 2024,
+   "co2_pc": 0.33,
+   "de_co2": 213,
+   "en": "Cameroon",
+   "es": "Camerún",
+   "poblacion": 29123748,
+   "puesto_co2": 187
+  },
+  "CN": {
+   "anio": 2024,
+   "co2_pc": 8.66,
+   "de_co2": 213,
+   "en": "China",
+   "es": "China",
+   "nombre_es": "China",
+   "poblacion": 1419321284,
+   "puesto_co2": 30
+  },
+  "CO": {
+   "anio": 2024,
+   "co2_pc": 1.75,
+   "de_co2": 213,
+   "en": "Colombia",
+   "es": "Colombia",
+   "nombre_es": "Colombia",
+   "poblacion": 52886360,
+   "puesto_co2": 137
+  },
+  "CR": {
+   "anio": 2024,
+   "co2_pc": 1.71,
+   "de_co2": 213,
+   "en": "Costa Rica",
+   "es": "Costa Rica",
+   "poblacion": 5129909,
+   "puesto_co2": 139
+  },
+  "CU": {
+   "anio": 2024,
+   "co2_pc": 2.23,
+   "de_co2": 213,
+   "en": "Cuba",
+   "es": "Cuba",
+   "poblacion": 10979781,
+   "puesto_co2": 127
+  },
+  "CV": {
+   "anio": 2024,
+   "co2_pc": 1.13,
+   "de_co2": 213,
+   "en": "Cabo Verde",
+   "es": "Cabo Verde",
+   "poblacion": 524878,
+   "puesto_co2": 155
+  },
+  "CW": {
+   "anio": 2024,
+   "co2_pc": 12.34,
+   "de_co2": 213,
+   "en": "Curaçao",
+   "es": "Curazao",
+   "poblacion": 185482,
+   "puesto_co2": 18
+  },
+  "CY": {
+   "anio": 2024,
+   "co2_pc": 5.37,
+   "de_co2": 213,
+   "en": "Cyprus",
+   "es": "Chipre",
+   "nombre_es": "Chipre",
+   "poblacion": 1358287,
+   "puesto_co2": 60
+  },
+  "CZ": {
+   "anio": 2024,
+   "co2_pc": 7.04,
+   "de_co2": 213,
+   "en": "Czechia",
+   "es": "Chequia",
+   "nombre_es": "Chequia",
+   "poblacion": 10735857,
+   "puesto_co2": 41
+  },
+  "DE": {
+   "anio": 2024,
+   "co2_pc": 6.77,
+   "de_co2": 213,
+   "en": "Germany",
+   "es": "Alemania",
+   "nombre_es": "Alemania",
+   "poblacion": 84552234,
+   "puesto_co2": 43
+  },
+  "DJ": {
+   "anio": 2024,
+   "co2_pc": 0.48,
+   "de_co2": 213,
+   "en": "Djibouti",
+   "es": "Yibuti",
+   "poblacion": 1168726,
+   "puesto_co2": 180
+  },
+  "DK": {
+   "anio": 2024,
+   "co2_pc": 4.75,
+   "de_co2": 213,
+   "en": "Denmark",
+   "es": "Dinamarca",
+   "nombre_es": "Dinamarca",
+   "poblacion": 5977417,
+   "puesto_co2": 73
+  },
+  "DM": {
+   "anio": 2024,
+   "co2_pc": 2.58,
+   "de_co2": 213,
+   "en": "Dominica",
+   "es": "Dominica",
+   "poblacion": 66226,
+   "puesto_co2": 119
+  },
+  "DO": {
+   "anio": 2024,
+   "co2_pc": 2.9,
+   "de_co2": 213,
+   "en": "Dominican Republic",
+   "es": "República Dominicana",
+   "poblacion": 11427558,
+   "puesto_co2": 113
+  },
+  "DZ": {
+   "anio": 2024,
+   "co2_pc": 4.23,
+   "de_co2": 213,
+   "en": "Algeria",
+   "es": "Algeria",
+   "nombre_es": "Argelia",
+   "poblacion": 46814302,
+   "puesto_co2": 81
+  },
+  "EC": {
+   "anio": 2024,
+   "co2_pc": 2.54,
+   "de_co2": 213,
+   "en": "Ecuador",
+   "es": "Ecuador",
+   "poblacion": 18135478,
+   "puesto_co2": 120
+  },
+  "EE": {
+   "anio": 2024,
+   "co2_pc": 6.11,
+   "de_co2": 213,
+   "en": "Estonia",
+   "es": "Estonia",
+   "nombre_es": "Estonia",
+   "poblacion": 1360548,
+   "puesto_co2": 52
+  },
+  "EG": {
+   "anio": 2024,
+   "co2_pc": 2.22,
+   "de_co2": 213,
+   "en": "Egypt",
+   "es": "Egipto",
+   "nombre_es": "Egipto",
+   "poblacion": 116538256,
+   "puesto_co2": 128
+  },
+  "ER": {
+   "anio": 2024,
+   "co2_pc": 0.21,
+   "de_co2": 213,
+   "en": "Eritrea",
+   "es": "Eritrea",
+   "poblacion": 3535610,
+   "puesto_co2": 198
+  },
+  "ES": {
+   "anio": 2024,
+   "co2_pc": 4.6,
+   "de_co2": 213,
+   "en": "Spain",
+   "es": "España",
+   "nombre_es": "España",
+   "poblacion": 47910533,
+   "puesto_co2": 76
+  },
+  "ET": {
+   "anio": 2024,
+   "co2_pc": 0.14,
+   "de_co2": 213,
+   "en": "Ethiopia",
+   "es": "Etiopía",
+   "poblacion": 132059770,
+   "puesto_co2": 203
+  },
+  "EU": {
+   "en": "Unión Europea",
+   "es": "Unión Europea",
+   "nombre_es": "Unión Europea"
+  },
+  "FI": {
+   "anio": 2024,
+   "co2_pc": 5.3,
+   "de_co2": 213,
+   "en": "Finland",
+   "es": "Finlandia",
+   "nombre_es": "Finlandia",
+   "poblacion": 5617311,
+   "puesto_co2": 62
+  },
+  "FJ": {
+   "anio": 2024,
+   "co2_pc": 1.56,
+   "de_co2": 213,
+   "en": "Fiji",
+   "es": "Fiyi",
+   "poblacion": 928800,
+   "puesto_co2": 142
+  },
+  "FM": {
+   "anio": 2024,
+   "co2_pc": 1.33,
+   "de_co2": 213,
+   "en": "Micronesia, Federated States of",
+   "es": "Micronesia",
+   "poblacion": 113171,
+   "puesto_co2": 148
+  },
+  "FO": {
+   "anio": 2024,
+   "co2_pc": 13.09,
+   "de_co2": 213,
+   "en": "Faroe Islands",
+   "es": "Islas Feroe",
+   "poblacion": 55419,
+   "puesto_co2": 15
+  },
+  "FR": {
+   "anio": 2024,
+   "co2_pc": 3.97,
+   "de_co2": 213,
+   "en": "France",
+   "es": "Francia",
+   "nombre_es": "Francia",
+   "poblacion": 66548532,
+   "puesto_co2": 87
+  },
+  "GA": {
+   "anio": 2024,
+   "co2_pc": 2.13,
+   "de_co2": 213,
+   "en": "Gabon",
+   "es": "Gabón",
+   "poblacion": 2538953,
+   "puesto_co2": 131
+  },
+  "GB": {
+   "anio": 2024,
+   "co2_pc": 4.53,
+   "de_co2": 213,
+   "en": "United Kingdom",
+   "es": "Reino Unido",
+   "nombre_es": "Reino Unido",
+   "poblacion": 69138185,
+   "puesto_co2": 77
+  },
+  "GD": {
+   "anio": 2024,
+   "co2_pc": 3.22,
+   "de_co2": 213,
+   "en": "Grenada",
+   "es": "Granada",
+   "poblacion": 117218,
+   "puesto_co2": 106
+  },
+  "GE": {
+   "anio": 2024,
+   "co2_pc": 3.1,
+   "de_co2": 213,
+   "en": "Georgia",
+   "es": "Georgia",
+   "poblacion": 3807668,
+   "puesto_co2": 109
+  },
+  "GH": {
+   "anio": 2024,
+   "co2_pc": 0.61,
+   "de_co2": 213,
+   "en": "Ghana",
+   "es": "Ghana",
+   "poblacion": 34427417,
+   "puesto_co2": 172
+  },
+  "GL": {
+   "anio": 2024,
+   "co2_pc": 11.08,
+   "de_co2": 213,
+   "en": "Greenland",
+   "es": "Groenlandia",
+   "poblacion": 55864,
+   "puesto_co2": 22
+  },
+  "GM": {
+   "anio": 2024,
+   "co2_pc": 0.29,
+   "de_co2": 213,
+   "en": "Gambia",
+   "es": "Gambia",
+   "poblacion": 2759999,
+   "puesto_co2": 189
+  },
+  "GN": {
+   "anio": 2024,
+   "co2_pc": 0.27,
+   "de_co2": 213,
+   "en": "Guinea",
+   "es": "Guinea",
+   "poblacion": 14754779,
+   "puesto_co2": 193
+  },
+  "GQ": {
+   "anio": 2024,
+   "co2_pc": 3.7,
+   "de_co2": 213,
+   "en": "Equatorial Guinea",
+   "es": "Guinea Ecuatorial",
+   "poblacion": 1892523,
+   "puesto_co2": 94
+  },
+  "GR": {
+   "anio": 2024,
+   "co2_pc": 5.31,
+   "de_co2": 213,
+   "en": "Greece",
+   "es": "Grecia",
+   "nombre_es": "Grecia",
+   "poblacion": 10047813,
+   "puesto_co2": 61
+  },
+  "GT": {
+   "anio": 2024,
+   "co2_pc": 1.08,
+   "de_co2": 213,
+   "en": "Guatemala",
+   "es": "Guatemala",
+   "poblacion": 18406366,
+   "puesto_co2": 158
+  },
+  "GW": {
+   "anio": 2024,
+   "co2_pc": 0.15,
+   "de_co2": 213,
+   "en": "Guinea-Bissau",
+   "es": "Guinea-Bisáu",
+   "poblacion": 2201360,
+   "puesto_co2": 200
+  },
+  "GY": {
+   "anio": 2024,
+   "co2_pc": 5.43,
+   "de_co2": 213,
+   "en": "Guyana",
+   "es": "Guyana",
+   "poblacion": 831092,
+   "puesto_co2": 59
+  },
+  "HK": {
+   "anio": 2024,
+   "co2_pc": 4.49,
+   "de_co2": 213,
+   "en": "Hong Kong",
+   "es": "Hong Kong",
+   "poblacion": 7414914,
+   "puesto_co2": 78
+  },
+  "HN": {
+   "anio": 2024,
+   "co2_pc": 1.19,
+   "de_co2": 213,
+   "en": "Honduras",
+   "es": "Honduras",
+   "poblacion": 10825704,
+   "puesto_co2": 151
+  },
+  "HR": {
+   "anio": 2024,
+   "co2_pc": 4.76,
+   "de_co2": 213,
+   "en": "Croatia",
+   "es": "Croacia",
+   "nombre_es": "Croacia",
+   "poblacion": 3875325,
+   "puesto_co2": 72
+  },
+  "HT": {
+   "anio": 2024,
+   "co2_pc": 0.25,
+   "de_co2": 213,
+   "en": "Haiti",
+   "es": "Haití",
+   "poblacion": 11772562,
+   "puesto_co2": 195
+  },
+  "HU": {
+   "anio": 2024,
+   "co2_pc": 4.14,
+   "de_co2": 213,
+   "en": "Hungary",
+   "es": "Hungría",
+   "nombre_es": "Hungría",
+   "poblacion": 9676135,
+   "puesto_co2": 82
+  },
+  "ID": {
+   "anio": 2024,
+   "co2_pc": 2.87,
+   "de_co2": 213,
+   "en": "Indonesia",
+   "es": "Indonesia",
+   "nombre_es": "Indonesia",
+   "poblacion": 283487933,
+   "puesto_co2": 114
+  },
+  "IE": {
+   "anio": 2024,
+   "co2_pc": 6.34,
+   "de_co2": 213,
+   "en": "Ireland",
+   "es": "Irlanda",
+   "nombre_es": "Irlanda",
+   "poblacion": 5255016,
+   "puesto_co2": 45
+  },
+  "IL": {
+   "anio": 2024,
+   "co2_pc": 5.61,
+   "de_co2": 213,
+   "en": "Israel",
+   "es": "Israel",
+   "poblacion": 9387015,
+   "puesto_co2": 57
+  },
+  "IN": {
+   "anio": 2024,
+   "co2_pc": 2.2,
+   "de_co2": 213,
+   "en": "India",
+   "es": "India",
+   "nombre_es": "India",
+   "poblacion": 1450935785,
+   "puesto_co2": 129
+  },
+  "IQ": {
+   "anio": 2024,
+   "co2_pc": 5.07,
+   "de_co2": 213,
+   "en": "Iraq",
+   "es": "Irak",
+   "poblacion": 46042015,
+   "puesto_co2": 67
+  },
+  "IR": {
+   "anio": 2024,
+   "co2_pc": 8.66,
+   "de_co2": 213,
+   "en": "Iran",
+   "es": "Irán",
+   "nombre_es": "Irán",
+   "poblacion": 91567737,
+   "puesto_co2": 31
+  },
+  "IS": {
+   "anio": 2024,
+   "co2_pc": 9.67,
+   "de_co2": 213,
+   "en": "Iceland",
+   "es": "Islandia",
+   "poblacion": 393404,
+   "puesto_co2": 27
+  },
+  "IT": {
+   "anio": 2024,
+   "co2_pc": 5.09,
+   "de_co2": 213,
+   "en": "Italy",
+   "es": "Italia",
+   "nombre_es": "Italia",
+   "poblacion": 59342870,
+   "puesto_co2": 66
+  },
+  "JM": {
+   "anio": 2024,
+   "co2_pc": 2.96,
+   "de_co2": 213,
+   "en": "Jamaica",
+   "es": "Jamaica",
+   "poblacion": 2839182,
+   "puesto_co2": 112
+  },
+  "JO": {
+   "anio": 2024,
+   "co2_pc": 2.01,
+   "de_co2": 213,
+   "en": "Jordan",
+   "es": "Jordania",
+   "poblacion": 11552885,
+   "puesto_co2": 134
+  },
+  "JP": {
+   "anio": 2024,
+   "co2_pc": 7.77,
+   "de_co2": 213,
+   "en": "Japan",
+   "es": "Japón",
+   "nombre_es": "Japón",
+   "poblacion": 123753041,
+   "puesto_co2": 36
+  },
+  "KE": {
+   "anio": 2024,
+   "co2_pc": 0.38,
+   "de_co2": 213,
+   "en": "Kenya",
+   "es": "Kenia",
+   "poblacion": 56432946,
+   "puesto_co2": 184
+  },
+  "KG": {
+   "anio": 2024,
+   "co2_pc": 1.64,
+   "de_co2": 213,
+   "en": "Kyrgyzstan",
+   "es": "Kirguistán",
+   "poblacion": 7186014,
+   "puesto_co2": 140
+  },
+  "KH": {
+   "anio": 2024,
+   "co2_pc": 1.24,
+   "de_co2": 213,
+   "en": "Cambodia",
+   "es": "Camboya",
+   "poblacion": 17638804,
+   "puesto_co2": 150
+  },
+  "KI": {
+   "anio": 2024,
+   "co2_pc": 0.54,
+   "de_co2": 213,
+   "en": "Kiribati",
+   "es": "Kiribati",
+   "poblacion": 134521,
+   "puesto_co2": 179
+  },
+  "KM": {
+   "anio": 2024,
+   "co2_pc": 0.64,
+   "de_co2": 213,
+   "en": "Comoros",
+   "es": "Comoras",
+   "poblacion": 866632,
+   "puesto_co2": 169
+  },
+  "KN": {
+   "anio": 2024,
+   "co2_pc": 5.54,
+   "de_co2": 213,
+   "en": "Saint Kitts and Nevis",
+   "es": "San Cristóbal y Nieves",
+   "poblacion": 46867,
+   "puesto_co2": 58
+  },
+  "KP": {
+   "anio": 2024,
+   "co2_pc": 2.36,
+   "de_co2": 213,
+   "en": "North Korea",
+   "es": "Corea del Norte",
+   "poblacion": 26498832,
+   "puesto_co2": 123
+  },
+  "KR": {
+   "anio": 2024,
+   "co2_pc": 11.29,
+   "de_co2": 213,
+   "en": "South Korea",
+   "es": "Corea del Sur",
+   "nombre_es": "Corea del Sur",
+   "poblacion": 51717587,
+   "puesto_co2": 21
+  },
+  "KW": {
+   "anio": 2024,
+   "co2_pc": 26.25,
+   "de_co2": 213,
+   "en": "Kuwait",
+   "es": "Kuwait",
+   "poblacion": 4934508,
+   "puesto_co2": 2
+  },
+  "KZ": {
+   "anio": 2024,
+   "co2_pc": 13.94,
+   "de_co2": 213,
+   "en": "Kazakhstan",
+   "es": "Kazajistán",
+   "nombre_es": "Kazajistán",
+   "poblacion": 20592574,
+   "puesto_co2": 13
+  },
+  "LA": {
+   "anio": 2024,
+   "co2_pc": 3.14,
+   "de_co2": 213,
+   "en": "Laos",
+   "es": "Laos",
+   "poblacion": 7769823,
+   "puesto_co2": 108
+  },
+  "LB": {
+   "anio": 2024,
+   "co2_pc": 2.7,
+   "de_co2": 213,
+   "en": "Lebanon",
+   "es": "Líbano",
+   "poblacion": 5805962,
+   "puesto_co2": 116
+  },
+  "LC": {
+   "anio": 2024,
+   "co2_pc": 2.99,
+   "de_co2": 213,
+   "en": "Saint Lucia",
+   "es": "Santa Lucía",
+   "poblacion": 179751,
+   "puesto_co2": 110
+  },
+  "LI": {
+   "anio": 2024,
+   "co2_pc": 3.3,
+   "de_co2": 213,
+   "en": "Liechtenstein",
+   "es": "Liechtenstein",
+   "poblacion": 39895,
+   "puesto_co2": 104
+  },
+  "LK": {
+   "anio": 2024,
+   "co2_pc": 0.9,
+   "de_co2": 213,
+   "en": "Sri Lanka",
+   "es": "Sri Lanka",
+   "poblacion": 23103561,
+   "puesto_co2": 161
+  },
+  "LR": {
+   "anio": 2024,
+   "co2_pc": 0.15,
+   "de_co2": 213,
+   "en": "Liberia",
+   "es": "Liberia",
+   "poblacion": 5612813,
+   "puesto_co2": 201
+  },
+  "LS": {
+   "anio": 2024,
+   "co2_pc": 1.1,
+   "de_co2": 213,
+   "en": "Lesotho",
+   "es": "Lesoto",
+   "poblacion": 2337428,
+   "puesto_co2": 157
+  },
+  "LT": {
+   "anio": 2024,
+   "co2_pc": 4.39,
+   "de_co2": 213,
+   "en": "Lithuania",
+   "es": "Lituania",
+   "nombre_es": "Lituania",
+   "poblacion": 2859112,
+   "puesto_co2": 79
+  },
+  "LU": {
+   "anio": 2024,
+   "co2_pc": 10.46,
+   "de_co2": 213,
+   "en": "Luxembourg",
+   "es": "Luxemburgo",
+   "nombre_es": "Luxemburgo",
+   "poblacion": 673042,
+   "puesto_co2": 24
+  },
+  "LV": {
+   "anio": 2024,
+   "co2_pc": 3.45,
+   "de_co2": 213,
+   "en": "Latvia",
+   "es": "Letonia",
+   "nombre_es": "Letonia",
+   "poblacion": 1871874,
+   "puesto_co2": 102
+  },
+  "LY": {
+   "anio": 2024,
+   "co2_pc": 8.84,
+   "de_co2": 213,
+   "en": "Libya",
+   "es": "Libia",
+   "poblacion": 7381029,
+   "puesto_co2": 29
+  },
+  "MA": {
+   "anio": 2024,
+   "co2_pc": 1.81,
+   "de_co2": 213,
+   "en": "Morocco",
+   "es": "Marruecos",
+   "nombre_es": "Marruecos",
+   "poblacion": 38081176,
+   "puesto_co2": 136
+  },
+  "MD": {
+   "anio": 2024,
+   "co2_pc": 1.75,
+   "de_co2": 213,
+   "en": "Moldova",
+   "es": "Moldavia",
+   "poblacion": 3034967,
+   "puesto_co2": 138
+  },
+  "ME": {
+   "anio": 2024,
+   "co2_pc": 3.72,
+   "de_co2": 213,
+   "en": "Montenegro",
+   "es": "Montenegro",
+   "poblacion": 638481,
+   "puesto_co2": 93
+  },
+  "MG": {
+   "anio": 2024,
+   "co2_pc": 0.14,
+   "de_co2": 213,
+   "en": "Madagascar",
+   "es": "Madagascar",
+   "poblacion": 31964960,
+   "puesto_co2": 204
+  },
+  "MH": {
+   "anio": 2024,
+   "co2_pc": 4.11,
+   "de_co2": 213,
+   "en": "Marshall Islands",
+   "es": "Islas Marshall",
+   "poblacion": 37572,
+   "puesto_co2": 84
+  },
+  "MK": {
+   "anio": 2024,
+   "co2_pc": 3.63,
+   "de_co2": 213,
+   "en": "North Macedonia",
+   "es": "Macedonia del Norte",
+   "poblacion": 1823011,
+   "puesto_co2": 97
+  },
+  "ML": {
+   "anio": 2024,
+   "co2_pc": 0.28,
+   "de_co2": 213,
+   "en": "Mali",
+   "es": "Malí",
+   "poblacion": 24478597,
+   "puesto_co2": 192
+  },
+  "MM": {
+   "anio": 2024,
+   "co2_pc": 0.58,
+   "de_co2": 213,
+   "en": "Myanmar",
+   "es": "Myanmar",
+   "poblacion": 54500086,
+   "puesto_co2": 176
+  },
+  "MN": {
+   "anio": 2024,
+   "co2_pc": 12.86,
+   "de_co2": 213,
+   "en": "Mongolia",
+   "es": "Mongolia",
+   "poblacion": 3475541,
+   "puesto_co2": 16
+  },
+  "MO": {
+   "anio": 2024,
+   "co2_pc": 1.47,
+   "de_co2": 213,
+   "en": "Macao",
+   "es": "Macao",
+   "poblacion": 720270,
+   "puesto_co2": 144
+  },
+  "MR": {
+   "anio": 2024,
+   "co2_pc": 1.01,
+   "de_co2": 213,
+   "en": "Mauritania",
+   "es": "Mauritania",
+   "poblacion": 5169403,
+   "puesto_co2": 159
+  },
+  "MS": {
+   "anio": 2024,
+   "co2_pc": 6.02,
+   "de_co2": 213,
+   "en": "Montserrat",
+   "es": "Montserrat",
+   "poblacion": 4414,
+   "puesto_co2": 53
+  },
+  "MT": {
+   "anio": 2024,
+   "co2_pc": 3.2,
+   "de_co2": 213,
+   "en": "Malta",
+   "es": "Malta",
+   "nombre_es": "Malta",
+   "poblacion": 539612,
+   "puesto_co2": 107
+  },
+  "MU": {
+   "anio": 2024,
+   "co2_pc": 3.68,
+   "de_co2": 213,
+   "en": "Mauritius",
+   "es": "Mauricio",
+   "poblacion": 1271171,
+   "puesto_co2": 95
+  },
+  "MV": {
+   "anio": 2024,
+   "co2_pc": 4.37,
+   "de_co2": 213,
+   "en": "Maldives",
+   "es": "Islas Maldivas",
+   "poblacion": 527801,
+   "puesto_co2": 80
+  },
+  "MW": {
+   "anio": 2024,
+   "co2_pc": 0.09,
+   "de_co2": 213,
+   "en": "Malawi",
+   "es": "Malaui",
+   "poblacion": 21655288,
+   "puesto_co2": 209
+  },
+  "MX": {
+   "anio": 2024,
+   "co2_pc": 3.52,
+   "de_co2": 213,
+   "en": "Mexico",
+   "es": "México",
+   "nombre_es": "México",
+   "poblacion": 130861001,
+   "puesto_co2": 101
+  },
+  "MY": {
+   "anio": 2024,
+   "co2_pc": 8.16,
+   "de_co2": 213,
+   "en": "Malaysia",
+   "es": "Malasia",
+   "nombre_es": "Malasia",
+   "poblacion": 35557670,
+   "puesto_co2": 34
+  },
+  "MZ": {
+   "anio": 2024,
+   "co2_pc": 0.25,
+   "de_co2": 213,
+   "en": "Mozambique",
+   "es": "Mozambique",
+   "poblacion": 34631767,
+   "puesto_co2": 196
+  },
+  "NA": {
+   "anio": 2024,
+   "co2_pc": 1.15,
+   "de_co2": 213,
+   "en": "Namibia",
+   "es": "Namibia",
+   "poblacion": 3030127,
+   "puesto_co2": 153
+  },
+  "NC": {
+   "anio": 2024,
+   "co2_pc": 18.06,
+   "de_co2": 213,
+   "en": "New Caledonia",
+   "es": "Nueva Caledonia",
+   "poblacion": 292655,
+   "puesto_co2": 8
+  },
+  "NE": {
+   "anio": 2024,
+   "co2_pc": 0.12,
+   "de_co2": 213,
+   "en": "Niger",
+   "es": "Níger",
+   "poblacion": 27032417,
+   "puesto_co2": 208
+  },
+  "NG": {
+   "anio": 2024,
+   "co2_pc": 0.58,
+   "de_co2": 213,
+   "en": "Nigeria",
+   "es": "Nigeria",
+   "nombre_es": "Nigeria",
+   "poblacion": 232679482,
+   "puesto_co2": 177
+  },
+  "NI": {
+   "anio": 2024,
+   "co2_pc": 0.81,
+   "de_co2": 213,
+   "en": "Nicaragua",
+   "es": "Nicaragua",
+   "poblacion": 6916136,
+   "puesto_co2": 165
+  },
+  "NL": {
+   "anio": 2024,
+   "co2_pc": 6.3,
+   "de_co2": 213,
+   "en": "Netherlands",
+   "es": "Países Bajos",
+   "nombre_es": "Países Bajos",
+   "poblacion": 18228740,
+   "puesto_co2": 46
+  },
+  "NO": {
+   "anio": 2024,
+   "co2_pc": 6.67,
+   "de_co2": 213,
+   "en": "Norway",
+   "es": "Noruega",
+   "nombre_es": "Noruega",
+   "poblacion": 5576656,
+   "puesto_co2": 44
+  },
+  "NP": {
+   "anio": 2024,
+   "co2_pc": 0.63,
+   "de_co2": 213,
+   "en": "Nepal",
+   "es": "Nepal",
+   "poblacion": 29651054,
+   "puesto_co2": 170
+  },
+  "NR": {
+   "anio": 2024,
+   "co2_pc": 5.13,
+   "de_co2": 213,
+   "en": "Nauru",
+   "es": "Nauru",
+   "poblacion": 11968,
+   "puesto_co2": 65
+  },
+  "NU": {
+   "anio": 2024,
+   "co2_pc": 4.14,
+   "de_co2": 213,
+   "en": "Niue",
+   "es": "Niue",
+   "poblacion": 1841,
+   "puesto_co2": 83
+  },
+  "NZ": {
+   "anio": 2024,
+   "co2_pc": 6.23,
+   "de_co2": 213,
+   "en": "New Zealand",
+   "es": "Nueva Zelanda",
+   "nombre_es": "Nueva Zelanda",
+   "poblacion": 5213942,
+   "puesto_co2": 48
+  },
+  "OM": {
+   "anio": 2024,
+   "co2_pc": 15.65,
+   "de_co2": 213,
+   "en": "Oman",
+   "es": "Omán",
+   "poblacion": 5281542,
+   "puesto_co2": 10
+  },
+  "PA": {
+   "anio": 2024,
+   "co2_pc": 2.81,
+   "de_co2": 213,
+   "en": "Panama",
+   "es": "Panamá",
+   "poblacion": 4515576,
+   "puesto_co2": 115
+  },
+  "PE": {
+   "anio": 2024,
+   "co2_pc": 2.05,
+   "de_co2": 213,
+   "en": "Peru",
+   "es": "Perú",
+   "poblacion": 34217850,
+   "puesto_co2": 133
+  },
+  "PF": {
+   "anio": 2024,
+   "co2_pc": 3.27,
+   "de_co2": 213,
+   "en": "French Polynesia",
+   "es": "Polinesia Francesa",
+   "poblacion": 281816,
+   "puesto_co2": 105
+  },
+  "PG": {
+   "anio": 2024,
+   "co2_pc": 0.79,
+   "de_co2": 213,
+   "en": "Papua New Guinea",
+   "es": "Papúa Nueva Guinea",
+   "poblacion": 10576509,
+   "puesto_co2": 166
+  },
+  "PH": {
+   "anio": 2024,
+   "co2_pc": 1.51,
+   "de_co2": 213,
+   "en": "Philippines",
+   "es": "Filipinas",
+   "nombre_es": "Filipinas",
+   "poblacion": 115843663,
+   "puesto_co2": 143
+  },
+  "PK": {
+   "anio": 2024,
+   "co2_pc": 0.72,
+   "de_co2": 213,
+   "en": "Pakistan",
+   "es": "Pakistán",
+   "nombre_es": "Pakistán",
+   "poblacion": 251269160,
+   "puesto_co2": 168
+  },
+  "PL": {
+   "anio": 2024,
+   "co2_pc": 7.08,
+   "de_co2": 213,
+   "en": "Poland",
+   "es": "Polonia",
+   "nombre_es": "Polonia",
+   "poblacion": 38539209,
+   "puesto_co2": 40
+  },
+  "PM": {
+   "anio": 2024,
+   "co2_pc": 9.79,
+   "de_co2": 213,
+   "en": "Saint Pierre and Miquelon",
+   "es": "San Pedro y Miquelon",
+   "poblacion": 5652,
+   "puesto_co2": 26
+  },
+  "PS": {
+   "anio": 2024,
+   "co2_pc": 0.87,
+   "de_co2": 213,
+   "en": "Palestine, State of",
+   "es": "Palestina",
+   "poblacion": 5495447,
+   "puesto_co2": 162
+  },
+  "PT": {
+   "anio": 2024,
+   "co2_pc": 3.41,
+   "de_co2": 213,
+   "en": "Portugal",
+   "es": "Portugal",
+   "nombre_es": "Portugal",
+   "poblacion": 10425291,
+   "puesto_co2": 103
+  },
+  "PW": {
+   "anio": 2024,
+   "co2_pc": 12.76,
+   "de_co2": 213,
+   "en": "Palau",
+   "es": "Palaos",
+   "poblacion": 17719,
+   "puesto_co2": 17
+  },
+  "PY": {
+   "anio": 2024,
+   "co2_pc": 1.15,
+   "de_co2": 213,
+   "en": "Paraguay",
+   "es": "Paraguay",
+   "poblacion": 6929152,
+   "puesto_co2": 154
+  },
+  "QA": {
+   "anio": 2024,
+   "co2_pc": 41.27,
+   "de_co2": 213,
+   "en": "Qatar",
+   "es": "Catar",
+   "poblacion": 3048429,
+   "puesto_co2": 1
+  },
+  "RO": {
+   "anio": 2024,
+   "co2_pc": 3.6,
+   "de_co2": 213,
+   "en": "Romania",
+   "es": "Rumanía",
+   "nombre_es": "Rumanía",
+   "poblacion": 19015096,
+   "puesto_co2": 98
+  },
+  "RS": {
+   "anio": 2024,
+   "co2_pc": 6.24,
+   "de_co2": 213,
+   "en": "Serbia",
+   "es": "Serbia",
+   "poblacion": 6736217,
+   "puesto_co2": 47
+  },
+  "RU": {
+   "anio": 2024,
+   "co2_pc": 12.29,
+   "de_co2": 213,
+   "en": "Russian Federation",
+   "es": "Rusia",
+   "nombre_es": "Rusia",
+   "poblacion": 144820421,
+   "puesto_co2": 19
+  },
+  "RW": {
+   "anio": 2024,
+   "co2_pc": 0.14,
+   "de_co2": 213,
+   "en": "Rwanda",
+   "es": "Ruanda",
+   "poblacion": 14256573,
+   "puesto_co2": 205
+  },
+  "SA": {
+   "anio": 2024,
+   "co2_pc": 20.38,
+   "de_co2": 213,
+   "en": "Saudi Arabia",
+   "es": "Arabia Saudí",
+   "nombre_es": "Arabia Saudita",
+   "poblacion": 33962751,
+   "puesto_co2": 6
+  },
+  "SB": {
+   "anio": 2024,
+   "co2_pc": 0.36,
+   "de_co2": 213,
+   "en": "Solomon Islands",
+   "es": "Islas Salomón",
+   "poblacion": 819206,
+   "puesto_co2": 185
+  },
+  "SC": {
+   "anio": 2024,
+   "co2_pc": 5.0,
+   "de_co2": 213,
+   "en": "Seychelles",
+   "es": "Seychelles",
+   "poblacion": 130436,
+   "puesto_co2": 68
+  },
+  "SD": {
+   "anio": 2024,
+   "co2_pc": 0.35,
+   "de_co2": 213,
+   "en": "Sudan",
+   "es": "Sudán",
+   "poblacion": 50448960,
+   "puesto_co2": 186
+  },
+  "SE": {
+   "anio": 2024,
+   "co2_pc": 3.59,
+   "de_co2": 213,
+   "en": "Sweden",
+   "es": "Suecia",
+   "nombre_es": "Suecia",
+   "poblacion": 10606993,
+   "puesto_co2": 100
+  },
+  "SG": {
+   "anio": 2024,
+   "co2_pc": 9.24,
+   "de_co2": 213,
+   "en": "Singapore",
+   "es": "Singapur",
+   "poblacion": 5832387,
+   "puesto_co2": 28
+  },
+  "SH": {
+   "anio": 2024,
+   "co2_pc": 2.17,
+   "de_co2": 213,
+   "en": "Saint Helena, Ascension and Tristan da Cunha",
+   "es": "Santa Elena",
+   "poblacion": 5262,
+   "puesto_co2": 130
+  },
+  "SI": {
+   "anio": 2024,
+   "co2_pc": 6.02,
+   "de_co2": 213,
+   "en": "Slovenia",
+   "es": "Eslovenia",
+   "nombre_es": "Eslovenia",
+   "poblacion": 2118692,
+   "puesto_co2": 54
+  },
+  "SK": {
+   "anio": 2024,
+   "co2_pc": 5.28,
+   "de_co2": 213,
+   "en": "Slovakia",
+   "es": "Eslovaquia",
+   "nombre_es": "Eslovaquia",
+   "poblacion": 5506759,
+   "puesto_co2": 63
+  },
+  "SL": {
+   "anio": 2024,
+   "co2_pc": 0.17,
+   "de_co2": 213,
+   "en": "Sierra Leone",
+   "es": "Sierra Leona",
+   "poblacion": 8642029,
+   "puesto_co2": 199
+  },
+  "SN": {
+   "anio": 2024,
+   "co2_pc": 0.76,
+   "de_co2": 213,
+   "en": "Senegal",
+   "es": "Senegal",
+   "poblacion": 18501988,
+   "puesto_co2": 167
+  },
+  "SO": {
+   "anio": 2024,
+   "co2_pc": 0.07,
+   "de_co2": 213,
+   "en": "Somalia",
+   "es": "Somalia",
+   "poblacion": 19009155,
+   "puesto_co2": 212
+  },
+  "SR": {
+   "anio": 2024,
+   "co2_pc": 4.71,
+   "de_co2": 213,
+   "en": "Suriname",
+   "es": "Surinám",
+   "poblacion": 634438,
+   "puesto_co2": 74
+  },
+  "SS": {
+   "anio": 2024,
+   "co2_pc": 0.14,
+   "de_co2": 213,
+   "en": "South Sudan",
+   "es": "Sudán del Sur",
+   "poblacion": 11943410,
+   "puesto_co2": 206
+  },
+  "ST": {
+   "anio": 2024,
+   "co2_pc": 0.6,
+   "de_co2": 213,
+   "en": "Sao Tome and Principe",
+   "es": "Santo Tomé y Príncipe",
+   "poblacion": 235548,
+   "puesto_co2": 173
+  },
+  "SV": {
+   "anio": 2024,
+   "co2_pc": 1.42,
+   "de_co2": 213,
+   "en": "El Salvador",
+   "es": "El Salvador",
+   "poblacion": 6338197,
+   "puesto_co2": 146
+  },
+  "SX": {
+   "anio": 2024,
+   "co2_pc": 16.55,
+   "de_co2": 213,
+   "en": "Sint Maarten (Dutch part)",
+   "es": "Sint Maarten",
+   "poblacion": 43372,
+   "puesto_co2": 9
+  },
+  "SY": {
+   "anio": 2024,
+   "co2_pc": 1.29,
+   "de_co2": 213,
+   "en": "Syria",
+   "es": "Siria",
+   "poblacion": 24672758,
+   "puesto_co2": 149
+  },
+  "SZ": {
+   "anio": 2024,
+   "co2_pc": 0.84,
+   "de_co2": 213,
+   "en": "Eswatini",
+   "es": "Esuatini",
+   "poblacion": 1242829,
+   "puesto_co2": 163
+  },
+  "TC": {
+   "anio": 2024,
+   "co2_pc": 8.14,
+   "de_co2": 213,
+   "en": "Turks and Caicos Islands",
+   "es": "Islas Turcas y Caicos",
+   "poblacion": 46563,
+   "puesto_co2": 35
+  },
+  "TD": {
+   "anio": 2024,
+   "co2_pc": 0.14,
+   "de_co2": 213,
+   "en": "Chad",
+   "es": "Chad",
+   "poblacion": 20299131,
+   "puesto_co2": 202
+  },
+  "TG": {
+   "anio": 2024,
+   "co2_pc": 0.33,
+   "de_co2": 213,
+   "en": "Togo",
+   "es": "Togo",
+   "poblacion": 8406554,
+   "puesto_co2": 188
+  },
+  "TH": {
+   "anio": 2024,
+   "co2_pc": 3.74,
+   "de_co2": 213,
+   "en": "Thailand",
+   "es": "Tailandia",
+   "nombre_es": "Tailandia",
+   "poblacion": 71668010,
+   "puesto_co2": 92
+  },
+  "TJ": {
+   "anio": 2024,
+   "co2_pc": 1.01,
+   "de_co2": 213,
+   "en": "Tajikistan",
+   "es": "Tayikistán",
+   "poblacion": 10590930,
+   "puesto_co2": 160
+  },
+  "TL": {
+   "anio": 2024,
+   "co2_pc": 0.48,
+   "de_co2": 213,
+   "en": "Timor-Leste",
+   "es": "Timor Oriental",
+   "poblacion": 1400638,
+   "puesto_co2": 181
+  },
+  "TM": {
+   "anio": 2024,
+   "co2_pc": 10.81,
+   "de_co2": 213,
+   "en": "Turkmenistan",
+   "es": "Turkmenistán",
+   "poblacion": 7494494,
+   "puesto_co2": 23
+  },
+  "TN": {
+   "anio": 2024,
+   "co2_pc": 2.66,
+   "de_co2": 213,
+   "en": "Tunisia",
+   "es": "Túnez",
+   "poblacion": 12277103,
+   "puesto_co2": 118
+  },
+  "TO": {
+   "anio": 2024,
+   "co2_pc": 1.46,
+   "de_co2": 213,
+   "en": "Tonga",
+   "es": "Tonga",
+   "poblacion": 104192,
+   "puesto_co2": 145
+  },
+  "TR": {
+   "anio": 2024,
+   "co2_pc": 5.87,
+   "de_co2": 213,
+   "en": "Türkiye",
+   "es": "Turquía",
+   "nombre_es": "Turquía",
+   "poblacion": 87473800,
+   "puesto_co2": 55
+  },
+  "TT": {
+   "anio": 2024,
+   "co2_pc": 22.93,
+   "de_co2": 213,
+   "en": "Trinidad and Tobago",
+   "es": "Trinidad y Tobago",
+   "poblacion": 1507778,
+   "puesto_co2": 5
+  },
+  "TV": {
+   "anio": 2024,
+   "co2_pc": 1.18,
+   "de_co2": 213,
+   "en": "Tuvalu",
+   "es": "Tuvalu",
+   "poblacion": 9669,
+   "puesto_co2": 152
+  },
+  "TW": {
+   "anio": 2024,
+   "co2_pc": 11.3,
+   "de_co2": 213,
+   "en": "Taiwan",
+   "es": "Taiwán",
+   "nombre_es": "Taiwán",
+   "poblacion": 23213964,
+   "puesto_co2": 20
+  },
+  "TZ": {
+   "anio": 2024,
+   "co2_pc": 0.29,
+   "de_co2": 213,
+   "en": "Tanzania",
+   "es": "Tanzania",
+   "poblacion": 68560162,
+   "puesto_co2": 190
+  },
+  "UA": {
+   "anio": 2024,
+   "co2_pc": 3.76,
+   "de_co2": 213,
+   "en": "Ukraine",
+   "es": "Ucrania",
+   "poblacion": 37860221,
+   "puesto_co2": 90
+  },
+  "UG": {
+   "anio": 2024,
+   "co2_pc": 0.13,
+   "de_co2": 213,
+   "en": "Uganda",
+   "es": "Uganda",
+   "poblacion": 50015091,
+   "puesto_co2": 207
+  },
+  "US": {
+   "anio": 2024,
+   "co2_pc": 14.2,
+   "de_co2": 213,
+   "en": "United States",
+   "es": "Estados Unidos",
+   "nombre_es": "Estados Unidos",
+   "poblacion": 345426566,
+   "puesto_co2": 12
+  },
+  "UY": {
+   "anio": 2024,
+   "co2_pc": 2.35,
+   "de_co2": 213,
+   "en": "Uruguay",
+   "es": "Uruguay",
+   "poblacion": 3386583,
+   "puesto_co2": 124
+  },
+  "UZ": {
+   "anio": 2024,
+   "co2_pc": 3.83,
+   "de_co2": 213,
+   "en": "Uzbekistan",
+   "es": "Uzbekistán",
+   "nombre_es": "Uzbekistán",
+   "poblacion": 36361859,
+   "puesto_co2": 89
+  },
+  "VC": {
+   "anio": 2024,
+   "co2_pc": 2.54,
+   "de_co2": 213,
+   "en": "Saint Vincent and the Grenadines",
+   "es": "San Vicente y las Granadinas",
+   "poblacion": 100630,
+   "puesto_co2": 121
+  },
+  "VE": {
+   "anio": 2024,
+   "co2_pc": 4.08,
+   "de_co2": 213,
+   "en": "Venezuela",
+   "es": "Venezuela",
+   "poblacion": 28405544,
+   "puesto_co2": 85
+  },
+  "VG": {
+   "anio": 2024,
+   "co2_pc": 4.87,
+   "de_co2": 213,
+   "en": "Virgin Islands, British",
+   "es": "Islas Vírgenes Británicas",
+   "poblacion": 39498,
+   "puesto_co2": 70
+  },
+  "VN": {
+   "anio": 2024,
+   "co2_pc": 3.67,
+   "de_co2": 213,
+   "en": "Vietnam",
+   "es": "Vietnam",
+   "nombre_es": "Vietnam",
+   "poblacion": 100987685,
+   "puesto_co2": 96
+  },
+  "VU": {
+   "anio": 2024,
+   "co2_pc": 0.6,
+   "de_co2": 213,
+   "en": "Vanuatu",
+   "es": "Vanuatu",
+   "poblacion": 327786,
+   "puesto_co2": 174
+  },
+  "WF": {
+   "anio": 2024,
+   "co2_pc": 2.7,
+   "de_co2": 213,
+   "en": "Wallis and Futuna",
+   "es": "Wallis y Futuna",
+   "poblacion": 11303,
+   "puesto_co2": 117
+  },
+  "WS": {
+   "anio": 2024,
+   "co2_pc": 1.13,
+   "de_co2": 213,
+   "en": "Samoa",
+   "es": "Samoa",
+   "poblacion": 218031,
+   "puesto_co2": 156
+  },
+  "YE": {
+   "anio": 2024,
+   "co2_pc": 0.25,
+   "de_co2": 213,
+   "en": "Yemen",
+   "es": "Yemen",
+   "poblacion": 40583173,
+   "puesto_co2": 197
+  },
+  "ZA": {
+   "anio": 2024,
+   "co2_pc": 6.87,
+   "de_co2": 213,
+   "en": "South Africa",
+   "es": "Sudáfrica",
+   "nombre_es": "Sudáfrica",
+   "poblacion": 64007187,
+   "puesto_co2": 42
+  },
+  "ZM": {
+   "anio": 2024,
+   "co2_pc": 0.56,
+   "de_co2": 213,
+   "en": "Zambia",
+   "es": "Zambia",
+   "poblacion": 21314962,
+   "puesto_co2": 178
+  },
+  "ZW": {
+   "anio": 2024,
+   "co2_pc": 0.82,
+   "de_co2": 213,
+   "en": "Zimbabwe",
+   "es": "Zimbabue",
+   "poblacion": 16634366,
+   "puesto_co2": 164
+  }
+ }
+}
